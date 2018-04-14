@@ -1,0 +1,62 @@
+[
+    {
+        "brewery": "drekker",
+        "image": "https://s3.amazonaws.com/growlermag-media/Drekker-Logo-Reverse.jpg"
+    },
+    {
+        "brewery": "vail",
+        "image": "http://static1.squarespace.com/static/53c6e903e4b05a9ec34345c2/t/59b1b3943e00be04ab88ba7f/1504818069127/Updated_VailBrewingCo+Logo+Coloardo+Colors.jpg?format=1000w"
+    },
+    {
+        "brewery": "schells",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/AugustSchellLogo.png"
+    },
+    {
+        "brewery": "odell",
+        "image": "https://pbs.twimg.com/profile_images/471376264582819841/MsKHb6-h_400x400.jpeg"
+    },
+    {
+        "brewery": "lupulin",
+        "image": "https://pbs.twimg.com/profile_images/516402733058760705/nRoqLA4o_400x400.jpeg"
+    },
+    {
+        "brewery": "indeed",
+        "image": "https://www.indeedbrewing.com/uploads/press-kit/IBC_Badge_RGB_ORG.png"
+    },
+    {
+        "brewery": "pryes",
+        "image": "https://pbs.twimg.com/profile_images/806267066630238209/YgsMQjlG_400x400.jpg"
+    },
+    {
+        "brewery": "56",
+        "image": "http://56brewing.com/wp-content/uploads/2017/05/56-brewing-batch-56.jpeg"
+    },
+    {
+        "brewery": "founders",
+        "image": "https://foundersbrewing.com/wp-content/uploads/2017/08/Founders_20thLogo_Color.png"
+    },
+    {
+        "brewery": "surly",
+        "image": "https://cdn.homebrewersassociation.org/wp-content/uploads/2015/06/Surly-Brewing.jpg"
+    },
+    {
+        "brewery": "bells",
+        "image": "https://i0.wp.com/beerstreetjournal.com/wp-content/uploads/Bells-Brewing-Logo.png?fit=900%2C770"
+    },
+    {
+        "brewery": "summit",
+        "image": "http://www.summitbrewing.com/app/uploads/2017/06/Summit_Logo_Color-640x640.jpg"
+    },
+    {
+        "brewery": "pipeworks",
+        "image": "http://static1.squarespace.com/static/523d035de4b0f99c83ed886d/t/584873c229687f3cd85e0d40/1523040578949/"
+    },
+    {
+        "brewery": "portage",
+        "image": "https://i2.wp.com/minnesotabreweries.com/wp-content/uploads/2018/03/PortageBrewingCompany.png?fit=300%2C300&ssl=1"
+    },
+    {
+        "brewery": "fairstate",
+        "image": "https://fairstate.coop/wp-content/uploads/2015/10/fairstate-color1.png"
+    }
+]
